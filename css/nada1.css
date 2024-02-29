@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#general{
+    margin: auto;
+    border-radius: 30px;
+    padding-top: 70px;
+    border-radius: 1000000px;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(238, 255, 0);
+    border: 5px solid black;
+}
+#caja1{
+    margin: auto;
+    margin-bottom: 15px;
+    margin-right: 75px;
+    border-radius: 1000000000000000px;
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color:aqua;
+    border: 5px solid black;
+}
+#caja2{
+    margin: auto;
+    margin-bottom: 15px;
+    margin-left: 75px;
+    border-radius: 1000000000000000px;
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(54, 134, 180); 
+    border: 5px solid black;
+}
+#caja3{
+    margin: 235px;
+    margin-bottom: 15px;
+    border-radius: 100000000000px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 7, 7);
+    border: 5px solid black;
+}
+#caja4{
+    
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 1000000px;
+    width: 400px;
+    height: 100px;
+    background-color: rgb(21, 59, 228);
+    border: 5px solid black;
+}
